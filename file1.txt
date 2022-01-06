@@ -1,4 +1,4 @@
 Hello World!
 Change added
 change2 added
-change3 added 
+change3 added change3 twice for conflict
