@@ -3,11 +3,12 @@ Change added
 change2 added
 
 
-change3 added change3 twice for conflict
+change1 added change3 twice for conflict
 
-change3 added 
+change2 added 
 
-Change added for bug2
+Change3 added for bug2
 
-Change : For WI6 on local master to test normal push
+Change4 : For WI6 on local master to test normal push
 
+Change5 : By teammate on remote master for bug3.
